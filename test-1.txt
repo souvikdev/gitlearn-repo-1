@@ -1,2 +1,4 @@
 This is a sample text file.
 Adding new line from feature branch
+This line is added in mainline and should go to feature.
+This is another line added in mainline.
